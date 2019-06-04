@@ -51,3 +51,7 @@ If you start the monitor on on your receiver Arduino you will get an output like
     23:18:06.814 -> gmonit;6;2587
     23:18:06.814 -> Device: 6  - Temperature: 2587
 
+## Thanks
+
+- [https://dronebotworkshop.com/433mhz-rf-modules-arduino](https://dronebotworkshop.com/433mhz-rf-modules-arduino)
+- [http://fritzing.org/home](http://fritzing.org/home)
